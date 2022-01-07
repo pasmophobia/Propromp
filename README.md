@@ -5,6 +5,6 @@
 - 📫 How to reach me: proprompx2@gmail.com
 - 😄 Pronouns: ぷろぷろんぷ
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Propromp)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Propromp&theme=dark)
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Propromp&layout=compact)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Propromp&layout=compact&theme=dark)
