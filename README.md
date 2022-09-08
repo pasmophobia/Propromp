@@ -2,7 +2,7 @@
 ### Hi there 👋 I am Propromp
 
 - 🔭 I’m currently working on https://github.com/Coretol
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Web
 - 📫 How to reach me: proprompx2@gmail.com
 - 😄 Pronouns: ぷろぷろんぷ
 
